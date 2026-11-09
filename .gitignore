@@ -1,0 +1,7 @@
+/raw/
+/data/raw/
+/data/processed/
+/.venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
